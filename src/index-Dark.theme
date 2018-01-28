@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=EonDark
+Comment=A Dark Material Design-like flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=EonDark
+MetacityTheme=EonDark
+IconTheme=Paper
+CursorTheme=Breeze_cursors
+
