@@ -1,17 +1,17 @@
 
-## Eon Themes
+# Eon Themes
 
-Eon is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
+Eon is a flat Material Design theme for GTK 3, GTK 2 and GNMOME Shell which supports GTK 3 and GTK 2 based desktop environments like Budgie, GNOME, Unity7, Pantheon, XFCE, MATE, etc.
 
 Eon is designed primarily for the Budgie Desktop.
 
-This theme is based on Flat-Plat gtk theme of nana-4. Thanks nana-4 sincerely for his great job! 
+This theme is based [Vimix GTK theme](https://github.com/vinceliuice/vimix-gtk-themes), which itself is based on on [Materia (formerly Flat-Plat) GTK theme](https://github.com/nana-4/materia-theme) by [nana-4](https://github.com/nana-4). Thanks [nana-4](https://github.com/nana-4) sincerely for his great job! 
 
 ## Info
 
 ### GTK+ 3.20 or later
 
-### GTK2 engines requirment
+### GTK2 engines requirement
 - GTK2 engine Murrine 0.98.1.1 or later.
 - GTK2 pixbuf engine or the gtk(2)-engines package.
 
@@ -29,18 +29,12 @@ ArchLinux:
 
 Other:
 Search for the engines in your distributions repository or install the engines from source.
+
 ## Install Or Uninstall
 
-Open the terminal at current directory.
-
-
-Run
-
+Open the terminal at current directory and run:
 
     ./Eon-installer
 
-
-Or double-click to open that script files and select "run at the terminal" at nautilus.
-
- 
+Or double-click to open that script file and select "Run in Terminal" on GNOME Files.
 
