@@ -1,7 +1,7 @@
 
 # Eon Themes
 
-Eon is a flat Material Design theme for GTK 3, GTK 2 and GNMOME Shell which supports GTK 3 and GTK 2 based desktop environments like Budgie, GNOME, Unity7, Pantheon, XFCE, MATE, etc.
+Eon is a flat Material Design theme for GTK 3, GTK 2 and GNOME Shell which supports GTK 3 and GTK 2 based desktop environments like Budgie, GNOME, Unity7, Pantheon, XFCE, MATE, etc.
 
 Eon is designed primarily for the Budgie Desktop.
 
